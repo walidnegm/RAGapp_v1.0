@@ -1,0 +1,65 @@
+
+Smartwatch Model X Datasheet
+
+1. General Specifications
+- Model Name: Smartwatch X
+- Brand: Tech Innovations
+- Release Date: 2024
+
+2. Physical Dimensions
+- Case Size: 44mm diameter, 12mm thickness
+- Weight: 45g (without strap)
+- Strap Size: Adjustable, fits 140-210mm wrists
+
+3. Material Types
+- Case Material: Aerospace-grade aluminum
+- Strap Material: High-grade silicone with stainless steel buckle
+- Display Cover: Sapphire crystal glass
+
+4. Display
+- Type: AMOLED
+- Screen Size: 1.78 inches
+- Resolution: 448 x 368 pixels
+- Always-On Display: Yes
+
+5. Performance Characteristics
+- Processor: Quad-core 1.5GHz
+- RAM: 1GB
+- Storage: 16GB internal storage
+- Operating System: WearOS 3.0
+
+6. Battery
+- Battery Type: Lithium-ion polymer
+- Battery Life: Up to 18 hours on a full charge
+- Charging Method: Magnetic charging cable
+
+7. Connectivity
+- Bluetooth: Bluetooth 5.0
+- Wi-Fi: Wi-Fi 802.11 b/g/n
+- GPS: Built-in GPS, GLONASS, Galileo, and QZSS
+- NFC: Yes, for payments
+
+8. Sensors
+- Heart Rate Monitor: Yes, with ECG functionality
+- Blood Oxygen Sensor: Yes
+- Accelerometer: Yes
+- Gyroscope: Yes
+- Ambient Light Sensor: Yes
+
+9. Water Resistance
+- Water Resistance Rating: 50 meters (5 ATM)
+
+10. Additional Features
+- Voice Assistant: Integrated with support for multiple languages
+- Fitness Tracking: Comprehensive tracking for over 30 different sports
+- Health Monitoring: Continuous heart rate monitoring, sleep analysis, stress tracking
+- Mobile Payments: Supported through NFC
+- Notifications: Calls, messages, app notifications
+
+11. In the Box
+- Smartwatch X
+- Magnetic charging cable
+- User manual
+- Warranty card (2 years)
+
+End of Datasheet
